@@ -1,14 +1,7 @@
-# Lenders Service.
+# WIP: logtick api
 
-Responsibilities:
 
-- Create Lender
-- Lender Login
-- Lender Data Management
+## License
 
-### Internals
-Port `7540`
+MIT
 
-## License.
-
-Tamagne
