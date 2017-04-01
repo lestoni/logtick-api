@@ -1,0 +1,48 @@
+{
+  "name": "Logtick-api",
+  "version": "1.0.0",
+  "description": "Logtick API",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Tony Mutai <tony@gebeya.com>",
+  "license": "",
+  "bugs": {
+    "url": ""
+  },
+  "engines": {
+    "node": ">=6.9.5"
+  },
+  "homepage": "",
+  "dependencies": {
+    "async": "~2.0.1",
+    "co": "~4.6.0",
+    "debug": "~2.2.0",
+    "del": "~2.2.2",
+    "koa": "~1.2.4",
+    "koa-body": "~1.5.0",
+    "koa-conditional-get": "~1.0.3",
+    "koa-cors": "0.0.16",
+    "koa-etag": "~2.1.1",
+    "koa-logger": "~1.3.0",
+    "koa-router": "~5.4.0",
+    "koa-static": "~2.0.0",
+    "koa-unless": "0.0.1",
+    "koa-validate": "~1.0.7",
+    "lodash": "~4.16.1",
+    "moment": "~2.15.1",
+    "ms": "~0.7.1",
+    "uuid": "~2.0.3",
+    "validator": "~5.7.0"
+  },
+  "devDependencies": {
+  }
+}
