@@ -1,4 +1,4 @@
-# WIP: logtick api
+# ARCHIVED: logtick api
 
 
 ## License
