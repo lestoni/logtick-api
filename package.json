@@ -38,7 +38,7 @@
     "koa-unless": "0.0.1",
     "koa-validate": "~1.0.7",
     "lodash": "~4.16.1",
-    "moment": "~2.15.1",
+    "moment": "~2.27.0",
     "ms": "~0.7.1",
     "uuid": "~2.0.3",
     "validator": "~5.7.0"
